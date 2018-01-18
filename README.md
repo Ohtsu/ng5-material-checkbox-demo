@@ -3,7 +3,7 @@
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 
-_ng5-material-checkbox-demo_ is an Angular5  demo project for programmers who want to use Angular Material Button.
+_ng5-material-checkbox-demo_ is an Angular5  demo project for programmers who want to use Angular Material Checkbox.
 
 _Video Explanation_
 <https://youtu.be/s0b3y1PWfSY>
@@ -29,7 +29,7 @@ The following "Step" number is based on the page.
 
    - @angular/animations (including the modification of 'src/app/app.module.ts' file) (Step2)
 
-   - Add MatButtonModule (step3)
+   - Add MatCheckboxModule,MatCardModule, MatRadioModule (step3)
 
    - Add default theme(indigo.pink.css) to styles.css file (step4)
 
@@ -86,7 +86,7 @@ $ ng serve
 
   - ***First Page*** 
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/button_01.png" width= "640" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-material/ng5-material-checkbox-01.png" width= "640" >
 
 
 #### Stop Local Server
@@ -116,12 +116,12 @@ Input **Ctrl+C** and **y+Return** to stop the local server.
 
 ## Change Log
 
- - 2018.1.4  version 0.1.1 uploaded
+ - 2018.1.18  version 0.1.3 uploaded
 
 
 ## Copyright
 
-copyright 2017 by Shuichi Ohtsu (DigiPub Japan)
+copyright 2018 by Shuichi Ohtsu (DigiPub Japan)
 
 
 ## License
